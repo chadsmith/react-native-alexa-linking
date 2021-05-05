@@ -1,0 +1,28 @@
+{
+  "name": "react-native-alexa-linking",
+  "version": "0.0.1",
+  "description": "React Native module for Alexa App-to-App Linking",
+  "author": "Chad Smith <chad@developer.email> (https://github.com/chadsmith)",
+  "license": "MIT",
+  "keywords": [
+    "react-native",
+    "alexa",
+    "linking",
+    "app-to-app"
+  ],
+  "homepage": "https://github.com/chadsmith/react-native-alexa-linking",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:chadsmith/react-native-alexa-linking.git"
+  },
+  "main": "AlexaLinking.js",
+  "peerDependencies": {
+    "react-native": ">=0.47"
+  },
+  "devDependencies": {
+    "eslint": "1.10.3",
+    "babel-eslint": "5.0.0-beta8",
+    "eslint-plugin-react": "3.16.1",
+    "eslint-config-airbnb": "4.0.0"
+  }
+}
